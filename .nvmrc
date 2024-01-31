@@ -1,0 +1,15 @@
+lts/hydrogen
+
+
+//Node version used (lts=long term support)
+//On a "rc" (run commands) file
+//By default, when is type "nvm install", hydrogen version will be installed
+//based on the information of this file
+
+//-------About the package.json file
+//This file is created by "npm int" and contains information about the
+//software versions use in the development 
+//Like ("next": "^13.1.6" OR "react": "^18.2.0")
+//After the version of next was installed "npm install netx@13.1.6", this
+//information comes to this file automatic
+//-------About the package.json file
